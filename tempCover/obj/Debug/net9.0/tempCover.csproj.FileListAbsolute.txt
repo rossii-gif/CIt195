@@ -1,0 +1,15 @@
+/Applications/CIT195/tempCover/bin/Debug/net9.0/tempCover
+/Applications/CIT195/tempCover/bin/Debug/net9.0/tempCover.deps.json
+/Applications/CIT195/tempCover/bin/Debug/net9.0/tempCover.runtimeconfig.json
+/Applications/CIT195/tempCover/bin/Debug/net9.0/tempCover.dll
+/Applications/CIT195/tempCover/bin/Debug/net9.0/tempCover.pdb
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.AssemblyInfoInputs.cache
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.AssemblyInfo.cs
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.csproj.CoreCompileInputs.cache
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.sourcelink.json
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.dll
+/Applications/CIT195/tempCover/obj/Debug/net9.0/refint/tempCover.dll
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.pdb
+/Applications/CIT195/tempCover/obj/Debug/net9.0/tempCover.genruntimeconfig.cache
+/Applications/CIT195/tempCover/obj/Debug/net9.0/ref/tempCover.dll

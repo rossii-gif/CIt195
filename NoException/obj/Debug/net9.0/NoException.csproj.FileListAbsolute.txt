@@ -1,0 +1,15 @@
+/Applications/CIT195/NoException/bin/Debug/net9.0/NoException
+/Applications/CIT195/NoException/bin/Debug/net9.0/NoException.deps.json
+/Applications/CIT195/NoException/bin/Debug/net9.0/NoException.runtimeconfig.json
+/Applications/CIT195/NoException/bin/Debug/net9.0/NoException.dll
+/Applications/CIT195/NoException/bin/Debug/net9.0/NoException.pdb
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.AssemblyInfoInputs.cache
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.AssemblyInfo.cs
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.csproj.CoreCompileInputs.cache
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.sourcelink.json
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.dll
+/Applications/CIT195/NoException/obj/Debug/net9.0/refint/NoException.dll
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.pdb
+/Applications/CIT195/NoException/obj/Debug/net9.0/NoException.genruntimeconfig.cache
+/Applications/CIT195/NoException/obj/Debug/net9.0/ref/NoException.dll
