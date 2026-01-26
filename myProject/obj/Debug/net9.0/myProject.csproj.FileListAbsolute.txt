@@ -1,0 +1,15 @@
+/Applications/CIT195/myProject/bin/Debug/net9.0/myProject
+/Applications/CIT195/myProject/bin/Debug/net9.0/myProject.deps.json
+/Applications/CIT195/myProject/bin/Debug/net9.0/myProject.runtimeconfig.json
+/Applications/CIT195/myProject/bin/Debug/net9.0/myProject.dll
+/Applications/CIT195/myProject/bin/Debug/net9.0/myProject.pdb
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.AssemblyInfoInputs.cache
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.AssemblyInfo.cs
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.csproj.CoreCompileInputs.cache
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.sourcelink.json
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.dll
+/Applications/CIT195/myProject/obj/Debug/net9.0/refint/myProject.dll
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.pdb
+/Applications/CIT195/myProject/obj/Debug/net9.0/myProject.genruntimeconfig.cache
+/Applications/CIT195/myProject/obj/Debug/net9.0/ref/myProject.dll

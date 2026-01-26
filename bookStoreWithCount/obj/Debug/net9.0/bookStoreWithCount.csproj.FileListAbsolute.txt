@@ -1,0 +1,15 @@
+/Applications/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount
+/Applications/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.deps.json
+/Applications/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.runtimeconfig.json
+/Applications/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.dll
+/Applications/CIT195/bookStoreWithCount/bin/Debug/net9.0/bookStoreWithCount.pdb
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.AssemblyInfoInputs.cache
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.AssemblyInfo.cs
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.csproj.CoreCompileInputs.cache
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.sourcelink.json
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.dll
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/refint/bookStoreWithCount.dll
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.pdb
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/bookStoreWithCount.genruntimeconfig.cache
+/Applications/CIT195/bookStoreWithCount/obj/Debug/net9.0/ref/bookStoreWithCount.dll

@@ -1,0 +1,15 @@
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.AssemblyInfoInputs.cache
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.AssemblyInfo.cs
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.csproj.CoreCompileInputs.cache
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.sourcelink.json
+/Applications/CIT195/bookStore/bin/Debug/net9.0/bookStore
+/Applications/CIT195/bookStore/bin/Debug/net9.0/bookStore.deps.json
+/Applications/CIT195/bookStore/bin/Debug/net9.0/bookStore.runtimeconfig.json
+/Applications/CIT195/bookStore/bin/Debug/net9.0/bookStore.dll
+/Applications/CIT195/bookStore/bin/Debug/net9.0/bookStore.pdb
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.dll
+/Applications/CIT195/bookStore/obj/Debug/net9.0/refint/bookStore.dll
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.pdb
+/Applications/CIT195/bookStore/obj/Debug/net9.0/bookStore.genruntimeconfig.cache
+/Applications/CIT195/bookStore/obj/Debug/net9.0/ref/bookStore.dll
