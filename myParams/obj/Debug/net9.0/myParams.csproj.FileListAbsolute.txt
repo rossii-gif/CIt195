@@ -1,0 +1,15 @@
+/Applications/CIT195/myParams/bin/Debug/net9.0/myParams
+/Applications/CIT195/myParams/bin/Debug/net9.0/myParams.deps.json
+/Applications/CIT195/myParams/bin/Debug/net9.0/myParams.runtimeconfig.json
+/Applications/CIT195/myParams/bin/Debug/net9.0/myParams.dll
+/Applications/CIT195/myParams/bin/Debug/net9.0/myParams.pdb
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.AssemblyInfoInputs.cache
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.AssemblyInfo.cs
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.csproj.CoreCompileInputs.cache
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.sourcelink.json
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.dll
+/Applications/CIT195/myParams/obj/Debug/net9.0/refint/myParams.dll
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.pdb
+/Applications/CIT195/myParams/obj/Debug/net9.0/myParams.genruntimeconfig.cache
+/Applications/CIT195/myParams/obj/Debug/net9.0/ref/myParams.dll

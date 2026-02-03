@@ -1,0 +1,15 @@
+/Applications/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic
+/Applications/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.deps.json
+/Applications/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.runtimeconfig.json
+/Applications/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.dll
+/Applications/CIT195/FunWithMusic/bin/Debug/net9.0/FunWithMusic.pdb
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.AssemblyInfoInputs.cache
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.AssemblyInfo.cs
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.csproj.CoreCompileInputs.cache
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.sourcelink.json
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.dll
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/refint/FunWithMusic.dll
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.pdb
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/FunWithMusic.genruntimeconfig.cache
+/Applications/CIT195/FunWithMusic/obj/Debug/net9.0/ref/FunWithMusic.dll
