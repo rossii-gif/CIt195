@@ -1,0 +1,15 @@
+/Applications/CIT195/SimpleInherintance/bin/Debug/net9.0/SimpleInherintance
+/Applications/CIT195/SimpleInherintance/bin/Debug/net9.0/SimpleInherintance.deps.json
+/Applications/CIT195/SimpleInherintance/bin/Debug/net9.0/SimpleInherintance.runtimeconfig.json
+/Applications/CIT195/SimpleInherintance/bin/Debug/net9.0/SimpleInherintance.dll
+/Applications/CIT195/SimpleInherintance/bin/Debug/net9.0/SimpleInherintance.pdb
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.AssemblyInfoInputs.cache
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.AssemblyInfo.cs
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.csproj.CoreCompileInputs.cache
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.sourcelink.json
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.dll
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/refint/SimpleInherintance.dll
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.pdb
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/SimpleInherintance.genruntimeconfig.cache
+/Applications/CIT195/SimpleInherintance/obj/Debug/net9.0/ref/SimpleInherintance.dll

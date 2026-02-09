@@ -1,0 +1,15 @@
+/Applications/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance
+/Applications/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.deps.json
+/Applications/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.runtimeconfig.json
+/Applications/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.dll
+/Applications/CIT195/AnimalInheritance/bin/Debug/net9.0/AnimalInheritance.pdb
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.AssemblyInfoInputs.cache
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.AssemblyInfo.cs
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.csproj.CoreCompileInputs.cache
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.sourcelink.json
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.dll
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/refint/AnimalInheritance.dll
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.pdb
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/AnimalInheritance.genruntimeconfig.cache
+/Applications/CIT195/AnimalInheritance/obj/Debug/net9.0/ref/AnimalInheritance.dll

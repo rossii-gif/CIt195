@@ -1,0 +1,15 @@
+/Applications/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects
+/Applications/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.deps.json
+/Applications/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.runtimeconfig.json
+/Applications/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.dll
+/Applications/CIT195/PrivateMultipleObjects/bin/Debug/net9.0/PrivateMultipleObjects.pdb
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.AssemblyInfoInputs.cache
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.AssemblyInfo.cs
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.sourcelink.json
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.dll
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/refint/PrivateMultipleObjects.dll
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.pdb
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/PrivateMultipleObjects.genruntimeconfig.cache
+/Applications/CIT195/PrivateMultipleObjects/obj/Debug/net9.0/ref/PrivateMultipleObjects.dll
