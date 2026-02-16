@@ -1,0 +1,15 @@
+/Applications/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass
+/Applications/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.deps.json
+/Applications/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.runtimeconfig.json
+/Applications/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.dll
+/Applications/CIT195/AbstractAnimalClass/bin/Debug/net9.0/AbstractAnimalClass.pdb
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.AssemblyInfoInputs.cache
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.AssemblyInfo.cs
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.csproj.CoreCompileInputs.cache
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.sourcelink.json
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.dll
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/refint/AbstractAnimalClass.dll
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.pdb
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/AbstractAnimalClass.genruntimeconfig.cache
+/Applications/CIT195/AbstractAnimalClass/obj/Debug/net9.0/ref/AbstractAnimalClass.dll

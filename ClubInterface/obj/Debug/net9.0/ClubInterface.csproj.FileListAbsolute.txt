@@ -1,0 +1,15 @@
+/Applications/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface
+/Applications/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.deps.json
+/Applications/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.runtimeconfig.json
+/Applications/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.dll
+/Applications/CIT195/ClubInterface/bin/Debug/net9.0/ClubInterface.pdb
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.AssemblyInfoInputs.cache
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.AssemblyInfo.cs
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.csproj.CoreCompileInputs.cache
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.sourcelink.json
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.dll
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/refint/ClubInterface.dll
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.pdb
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ClubInterface.genruntimeconfig.cache
+/Applications/CIT195/ClubInterface/obj/Debug/net9.0/ref/ClubInterface.dll
