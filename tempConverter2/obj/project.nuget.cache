@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DGHIav91yJM=",
+  "dgSpecHash": "FnRGQDIn+AA=",
   "success": true,
   "projectFilePath": "/Applications/CIT195/tempConverter2/tempConverter2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bellarossi/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/bellarossi/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/bellarossi/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

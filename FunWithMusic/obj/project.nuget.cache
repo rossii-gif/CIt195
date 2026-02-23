@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MEXYfpjURUA=",
+  "dgSpecHash": "Alw2AdWF0jM=",
   "success": true,
   "projectFilePath": "/Applications/CIT195/FunWithMusic/FunWithMusic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bellarossi/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/bellarossi/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/bellarossi/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

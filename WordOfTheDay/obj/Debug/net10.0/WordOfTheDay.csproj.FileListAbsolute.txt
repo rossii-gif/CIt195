@@ -1,0 +1,15 @@
+/Applications/CIT195/WordOfTheDay/bin/Debug/net10.0/WordOfTheDay
+/Applications/CIT195/WordOfTheDay/bin/Debug/net10.0/WordOfTheDay.deps.json
+/Applications/CIT195/WordOfTheDay/bin/Debug/net10.0/WordOfTheDay.runtimeconfig.json
+/Applications/CIT195/WordOfTheDay/bin/Debug/net10.0/WordOfTheDay.dll
+/Applications/CIT195/WordOfTheDay/bin/Debug/net10.0/WordOfTheDay.pdb
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.AssemblyInfoInputs.cache
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.AssemblyInfo.cs
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.csproj.CoreCompileInputs.cache
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.sourcelink.json
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.dll
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/refint/WordOfTheDay.dll
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.pdb
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/WordOfTheDay.genruntimeconfig.cache
+/Applications/CIT195/WordOfTheDay/obj/Debug/net10.0/ref/WordOfTheDay.dll

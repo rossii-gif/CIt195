@@ -1,0 +1,15 @@
+/Applications/CIT195/clubMemberIndexer/bin/Debug/net10.0/clubMemberIndexer
+/Applications/CIT195/clubMemberIndexer/bin/Debug/net10.0/clubMemberIndexer.deps.json
+/Applications/CIT195/clubMemberIndexer/bin/Debug/net10.0/clubMemberIndexer.runtimeconfig.json
+/Applications/CIT195/clubMemberIndexer/bin/Debug/net10.0/clubMemberIndexer.dll
+/Applications/CIT195/clubMemberIndexer/bin/Debug/net10.0/clubMemberIndexer.pdb
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.AssemblyInfoInputs.cache
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.AssemblyInfo.cs
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.csproj.CoreCompileInputs.cache
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.sourcelink.json
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.dll
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/refint/clubMemberIndexer.dll
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.pdb
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/clubMemberIndexer.genruntimeconfig.cache
+/Applications/CIT195/clubMemberIndexer/obj/Debug/net10.0/ref/clubMemberIndexer.dll

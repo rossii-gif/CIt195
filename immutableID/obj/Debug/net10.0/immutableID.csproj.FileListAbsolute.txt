@@ -1,0 +1,15 @@
+/Applications/CIT195/immutableID/bin/Debug/net10.0/immutableID
+/Applications/CIT195/immutableID/bin/Debug/net10.0/immutableID.deps.json
+/Applications/CIT195/immutableID/bin/Debug/net10.0/immutableID.runtimeconfig.json
+/Applications/CIT195/immutableID/bin/Debug/net10.0/immutableID.dll
+/Applications/CIT195/immutableID/bin/Debug/net10.0/immutableID.pdb
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.AssemblyInfoInputs.cache
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.AssemblyInfo.cs
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.csproj.CoreCompileInputs.cache
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.sourcelink.json
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.dll
+/Applications/CIT195/immutableID/obj/Debug/net10.0/refint/immutableID.dll
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.pdb
+/Applications/CIT195/immutableID/obj/Debug/net10.0/immutableID.genruntimeconfig.cache
+/Applications/CIT195/immutableID/obj/Debug/net10.0/ref/immutableID.dll

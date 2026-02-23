@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "InDg9Ftof8k=",
+  "dgSpecHash": "uHo5xNaw4Xg=",
   "success": true,
   "projectFilePath": "/Applications/CIT195/bookStore/bookStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bellarossi/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/bellarossi/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/bellarossi/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
