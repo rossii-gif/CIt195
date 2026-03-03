@@ -1,0 +1,15 @@
+/Applications/CIT195/Audit/bin/Debug/net10.0/Audit
+/Applications/CIT195/Audit/bin/Debug/net10.0/Audit.deps.json
+/Applications/CIT195/Audit/bin/Debug/net10.0/Audit.runtimeconfig.json
+/Applications/CIT195/Audit/bin/Debug/net10.0/Audit.dll
+/Applications/CIT195/Audit/bin/Debug/net10.0/Audit.pdb
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.AssemblyInfoInputs.cache
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.AssemblyInfo.cs
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.csproj.CoreCompileInputs.cache
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.sourcelink.json
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.dll
+/Applications/CIT195/Audit/obj/Debug/net10.0/refint/Audit.dll
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.pdb
+/Applications/CIT195/Audit/obj/Debug/net10.0/Audit.genruntimeconfig.cache
+/Applications/CIT195/Audit/obj/Debug/net10.0/ref/Audit.dll

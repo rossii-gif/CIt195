@@ -1,0 +1,15 @@
+/Applications/CIT195/PetListsEx7/bin/Debug/net10.0/PetListsEx7
+/Applications/CIT195/PetListsEx7/bin/Debug/net10.0/PetListsEx7.deps.json
+/Applications/CIT195/PetListsEx7/bin/Debug/net10.0/PetListsEx7.runtimeconfig.json
+/Applications/CIT195/PetListsEx7/bin/Debug/net10.0/PetListsEx7.dll
+/Applications/CIT195/PetListsEx7/bin/Debug/net10.0/PetListsEx7.pdb
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.AssemblyInfoInputs.cache
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.AssemblyInfo.cs
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.csproj.CoreCompileInputs.cache
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.sourcelink.json
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.dll
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/refint/PetListsEx7.dll
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.pdb
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/PetListsEx7.genruntimeconfig.cache
+/Applications/CIT195/PetListsEx7/obj/Debug/net10.0/ref/PetListsEx7.dll

@@ -1,0 +1,15 @@
+/Applications/CIT195/LambdaExpression/bin/Debug/net10.0/LambdaExpression
+/Applications/CIT195/LambdaExpression/bin/Debug/net10.0/LambdaExpression.deps.json
+/Applications/CIT195/LambdaExpression/bin/Debug/net10.0/LambdaExpression.runtimeconfig.json
+/Applications/CIT195/LambdaExpression/bin/Debug/net10.0/LambdaExpression.dll
+/Applications/CIT195/LambdaExpression/bin/Debug/net10.0/LambdaExpression.pdb
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.AssemblyInfoInputs.cache
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.AssemblyInfo.cs
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.csproj.CoreCompileInputs.cache
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.sourcelink.json
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.dll
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/refint/LambdaExpression.dll
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.pdb
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/LambdaExpression.genruntimeconfig.cache
+/Applications/CIT195/LambdaExpression/obj/Debug/net10.0/ref/LambdaExpression.dll
