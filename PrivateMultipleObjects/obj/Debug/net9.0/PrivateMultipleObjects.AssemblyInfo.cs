@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrivateMultipleObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f1af6f90e490b339729367e4ee50ea04fe956a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ca557d61455b6f9d79ae159412686f72aa46e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrivateMultipleObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrivateMultipleObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
