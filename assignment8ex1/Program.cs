@@ -3,7 +3,7 @@
 namespace assignment8ex1
 {
     class Program
-    {
+    { 
         public delegate void SongPart();
 
         public class HereComesTheSun
