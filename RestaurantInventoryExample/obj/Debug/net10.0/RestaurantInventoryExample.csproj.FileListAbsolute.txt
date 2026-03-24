@@ -1,0 +1,15 @@
+/Applications/CIT195/RestaurantInventoryExample/bin/Debug/net10.0/RestaurantInventoryExample
+/Applications/CIT195/RestaurantInventoryExample/bin/Debug/net10.0/RestaurantInventoryExample.deps.json
+/Applications/CIT195/RestaurantInventoryExample/bin/Debug/net10.0/RestaurantInventoryExample.runtimeconfig.json
+/Applications/CIT195/RestaurantInventoryExample/bin/Debug/net10.0/RestaurantInventoryExample.dll
+/Applications/CIT195/RestaurantInventoryExample/bin/Debug/net10.0/RestaurantInventoryExample.pdb
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.AssemblyInfoInputs.cache
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.AssemblyInfo.cs
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.csproj.CoreCompileInputs.cache
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.sourcelink.json
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.dll
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/refint/RestaurantInventoryExample.dll
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.pdb
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/RestaurantInventoryExample.genruntimeconfig.cache
+/Applications/CIT195/RestaurantInventoryExample/obj/Debug/net10.0/ref/RestaurantInventoryExample.dll

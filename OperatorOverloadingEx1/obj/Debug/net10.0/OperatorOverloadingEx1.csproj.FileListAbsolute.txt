@@ -1,0 +1,15 @@
+/Applications/CIT195/OperatorOverloadingEx1/bin/Debug/net10.0/OperatorOverloadingEx1
+/Applications/CIT195/OperatorOverloadingEx1/bin/Debug/net10.0/OperatorOverloadingEx1.deps.json
+/Applications/CIT195/OperatorOverloadingEx1/bin/Debug/net10.0/OperatorOverloadingEx1.runtimeconfig.json
+/Applications/CIT195/OperatorOverloadingEx1/bin/Debug/net10.0/OperatorOverloadingEx1.dll
+/Applications/CIT195/OperatorOverloadingEx1/bin/Debug/net10.0/OperatorOverloadingEx1.pdb
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.AssemblyInfoInputs.cache
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.AssemblyInfo.cs
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.csproj.CoreCompileInputs.cache
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.sourcelink.json
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.dll
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/refint/OperatorOverloadingEx1.dll
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.pdb
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/OperatorOverloadingEx1.genruntimeconfig.cache
+/Applications/CIT195/OperatorOverloadingEx1/obj/Debug/net10.0/ref/OperatorOverloadingEx1.dll
